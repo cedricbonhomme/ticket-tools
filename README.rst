@@ -1,6 +1,6 @@
 
 
-It is recommended to first install [pyenv](https://github.com/pyenv/pyenv),
+It is recommended to first install `pyenv <https://github.com/pyenv/pyenv>`_,
 then [pipsi](https://github.com/mitsuhiko/pipsi).  
 Then install [pew](https://github.com/berdario/pew) and
 [pipenv](https://github.com/pypa/pipenv) with pipsi.
